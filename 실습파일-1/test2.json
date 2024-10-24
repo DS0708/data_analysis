@@ -1,0 +1,10 @@
+{
+	"apple": {
+		"price": "2000",
+		"weight": "50"
+	},
+	"banana": {
+		"price": "4000",
+		"weight": "70"
+	}
+}
